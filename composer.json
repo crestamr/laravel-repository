@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Developer JoBins",
-            "email": "dev@jobins.jp",
+            "name": "Puncoz Nepal",
+            "email": "puncoz138@gmail.com",
             "role": "Developer"
         }
     ],
@@ -19,14 +19,14 @@
         "php": "^8.0",
         "illuminate/database": "^9.0|^10.0|^11.0|^12.0",
         "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
-        "league/fractal": "^0.20.1",
-        "orchestra/testbench": "^10.0.0"
+        "league/fractal": "^0.19.2"
     },
     "require-dev": {
-        "larastan/larastan": "^3.1.0",
-        "phpstan/extension-installer": "^1.4.3",
-        "phpstan/phpstan-deprecation-rules": "^2.0.1",
-        "phpstan/phpstan-phpunit": "^2.0.4"
+        "nunomaduro/larastan": "^2.0",
+        "orchestra/testbench": "^7.0",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan-deprecation-rules": "^1.0",
+        "phpstan/phpstan-phpunit": "^1.0"
     },
     "autoload": {
         "psr-4": {
